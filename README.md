@@ -3,7 +3,7 @@
 
 > Vítej ve světě NBA 2K27! Tento projekt představuje basketbalovou herní sérii NBA 2K, její herní režimy, zajímavé funkce a možnosti, které nabízí hráčům.
 
-![NBA 2K27 – Basketbal](images/nba2k27.jpg)
+![NBA 2K27 – Basketbal](2k27.jpg)
 
 ---
 
@@ -112,7 +112,6 @@ Podle mě je NBA 2K zajímavá herní série především pro fanoušky basketba
 
 ---
 
-*Projekt vytvořen jako školní práce v rámci úkolu Master of Markdown na GitHubu.*
 
 
 
