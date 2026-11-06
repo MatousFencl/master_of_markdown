@@ -67,12 +67,12 @@ Najdeš zde informace o basketbalu, hráčích, novinkách a samotné herní sé
 
 Co bych chtěl ve hře vyzkoušet:
 
-- [x] Vytvořit vlastního basketbalistu.
-- [x] Vyzkoušet různé herní režimy.
-- [x] Zjistit, jak funguje MyTEAM.
-- [ ] Vyhrát důležitý turnaj.
+- [ ] Vytvořit vlastního basketbalistu.
+- [ ] Vyzkoušet různé herní režimy.
+- [ ] Zjistit, jak funguje MyTEAM.
+- [x] Vyhrát důležitý turnaj.
 - [ ] Vytvořit co nejsilnější tým.
-- [ ] Zlepšit své basketbalové dovednosti.
+- [x] Zlepšit své basketbalové dovednosti.
 
 
 
