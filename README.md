@@ -24,3 +24,21 @@ Hlavním cílem hry je nabídnout co nejrealističtější basketbalový zážit
 
 
 
+##  2. Herní režimy
+
+### MyCAREER
+
+V tomto režimu si vytvoříš vlastního basketbalistu a postupně buduješ jeho kariéru. Zlepšuješ jeho schopnosti a snažíš se dostat mezi nejlepší hráče NBA.
+
+### MyTEAM
+
+V režimu MyTEAM si sestavuješ vlastní tým z různých basketbalových hráčů. Snažíš se vytvořit co nejsilnější sestavu a porážet soupeře.
+
+### MyNBA
+
+V MyNBA se stáváš manažerem basketbalového klubu. Můžeš rozhodovat o přestupech, sestavě a budoucnosti svého týmu.
+
+
+
+
+
