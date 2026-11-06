@@ -52,6 +52,19 @@ V MyNBA se stáváš manažerem basketbalového klubu. Můžeš rozhodovat o př
 | Známé basketbalové týmy | Pravidelné vydávání nových verzí |
 
 
+## 🔗 4. Zajímavé odkazy
+
+Pokud tě NBA 2K zajímá, můžeš navštívit následující stránky:
+
+- [Oficiální stránky NBA 2K](https://nba.2k.com/)
+- [Oficiální stránky NBA](https://www.nba.com/)
+
+Najdeš zde informace o basketbalu, hráčích, novinkách a samotné herní sérii.
+
+
+
+
+
 
 
 
