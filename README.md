@@ -41,4 +41,19 @@ V MyNBA se stáváš manažerem basketbalového klubu. Můžeš rozhodovat o př
 
 
 
+##  3. Výhody a nevýhody NBA 2K
+
+| Výhody | Nevýhody |
+|---|---|
+| Realistická grafika | Některé funkce mohou být placené |
+| Velký výběr herních režimů | Náročnější ovládání |
+| Online multiplayer | Závislost na internetu |
+| Vlastní basketbalista | Některé režimy mohou být opakující se |
+| Známé basketbalové týmy | Pravidelné vydávání nových verzí |
+
+
+
+
+
+
 
