@@ -73,6 +73,37 @@ Co bych chtěl ve hře vyzkoušet:
 - [x] Vyhrát důležitý turnaj.
 - [ ] Vytvořit co nejsilnější tým.
 - [x] Zlepšit své basketbalové dovednosti.
+      
+
+
+##  6. Jak funguje basketbalový zápas?
+
+Basketbalový zápas se skládá ze čtyř čtvrtin. Dva týmy se snaží získat více bodů než soupeř.
+
+Základní bodování:
+
+- **1 bod** – úspěšný trestný hod.
+- **2 body** – běžný koš z prostoru uvnitř trojkového oblouku.
+- **3 body** – koš z prostoru za trojkovým obloukem.
+
+### Průběh zápasu
+
+```mermaid
+graph TD
+    A[Začátek zápasu] --> B[Získání míče]
+    B --> C[Útok na koš]
+    C --> D{Padl koš?}
+    D -->|Ano| E[Připsání bodů]
+    D -->|Ne| F[Pokračování hry]
+    E --> G[Další útok]
+    F --> G
+    G --> H{Konec zápasu?}
+    H -->|Ne| B
+    H -->|Ano| I[Vyhlášení vítěze]
+```
+
+
+
 
 
 
