@@ -63,6 +63,22 @@ Najdeš zde informace o basketbalu, hráčích, novinkách a samotné herní sé
 
 
 
+##  5. Můj seznam úkolů
+
+Co bych chtěl ve hře vyzkoušet:
+
+- [x] Vytvořit vlastního basketbalistu.
+- [x] Vyzkoušet různé herní režimy.
+- [x] Zjistit, jak funguje MyTEAM.
+- [ ] Vyhrát důležitý turnaj.
+- [ ] Vytvořit co nejsilnější tým.
+- [ ] Zlepšit své basketbalové dovednosti.
+
+
+
+
+
+
 
 
 
