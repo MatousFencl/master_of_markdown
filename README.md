@@ -104,6 +104,19 @@ graph TD
 
 
 
+## 🏀 7. Moje hodnocení
+
+Podle mě je NBA 2K zajímavá herní série především pro fanoušky basketbalu. Nejvíce mě baví možnost vytvořit si vlastního hráče, hrát za oblíbené týmy a soutěžit s ostatními hráči.
+
+**Celkově bych NBA 2K doporučil každému, kdo má rád basketbal a sportovní hry.**
+
+---
+
+*Projekt vytvořen jako školní práce v rámci úkolu Master of Markdown na GitHubu.*
+
+
+
+
 
 
 
