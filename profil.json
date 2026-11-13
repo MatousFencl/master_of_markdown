@@ -1,16 +1,18 @@
 
+
 {
   "jmeno": "Matous",
   "vek": 17,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rad hraji basketbal a pocitacove hry",
+  "oblibene_cislo": 23,
   "adresa": {
     "mesto": "Praha",
     "ulice": "Hlavni 15"
   },
   "konicky": [
     "Basketbal",
-    "Hraní na počítači",
+    "Hraní videoher",
     "Počítače"
   ]
 }
